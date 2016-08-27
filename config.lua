@@ -54,7 +54,7 @@ return {
 		'eightball.lua'
 	},
 	available_languages = {
-		['en'] = 'English 🇬🇧',
+		['en'] = 'فارسی 🇮�',
 		['it'] = 'Italiano 🇮🇹',
 		['es'] = 'Español 🇪🇸',
 		['br'] = 'Português 🇧🇷',
@@ -64,7 +64,8 @@ return {
 		['ar'] = 'العربية 🇸🇩',
 		['fr'] = 'Français 🇫🇷',
 		['tc'] = '中文 🇨🇳',
-		['fa'] = 'فارسی 🇮🇷'
+		['fa'] = 'English 🇬�'
+		فارسی 🇮�
 		--more to come
 	},
 	media_list = {
