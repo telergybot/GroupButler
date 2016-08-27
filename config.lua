@@ -1,15 +1,15 @@
 return {
-	bot_api_key = '198733539:AAGV9pV-ry2He6PozSlAWRPXW3tO5DoNSe4',
+	bot_api_key = '246450246:AAGU7e_G3K1tNoAqExK5tDR0UKmTA26ETNc',
 	version = '4.0',
 	cmd = '^[/!#]',
 	db = 2, --default redis db: 0
 	admin = {
-		owner = 23646077,
+		owner = 253364622,
 		admins = {
-			[141956218] = true
+			[253364622] = true
 		}
 	},
-	log_chat = -1001057801239,
+	log_chat = -1001094222283,
 	bot_settings = {
 		cache_time = {
 			adminlist = 18000, --5 hours (18000s)
