@@ -4,7 +4,7 @@ local emoji = {
 }
 
 return {
-    en = {
+    fa = {
         config = {
             private = '_I\'ve sent you the settings keyboard in private_',
             main = 'Surf this keyboard to change the group settings'
@@ -3794,7 +3794,7 @@ The inline keyboard has three sub-menus:
                         ..'The number is not related the the normal `/warn` command',
         },
     },
-	fa = {
+	en = {
 	    config = {
             private = '_I\'ve sent you the settings keyboard in private_',
             main = 'Surf this keyboard to change the group settings'
