@@ -51,7 +51,7 @@ function bot_init(on_reload) -- The function run when the bot is started or relo
 		end
 	end
 
-	print('\n'..clr.blue..'BOT RUNNING:'..clr.reset, clr.red..'[@'..bot.username .. '] [' .. bot.first_name ..'] ['..bot.id..']'..clr.reset..'\n')
+	print('\n'..clr.blue..'بات ران شد:'..clr.reset, clr.red..'[@'..bot.username .. '] [' .. bot.first_name ..'] ['..bot.id..']'..clr.reset..'\n')
 	if not on_reload then
 		db:hincrby('bot:general', 'starts', 1)
 		api.sendAdmin('*Bot started!*\n_'..os.date('On %A, %d %B %Y\nAt %X')..'_\n'..#plugins..' plugins loaded', true)
